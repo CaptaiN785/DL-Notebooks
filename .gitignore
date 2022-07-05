@@ -1,1 +1,3 @@
 */*/*
+Cancer-Prediction/data/*
+!Age-and-gender/age_model.hd5/*"
